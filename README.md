@@ -10,7 +10,7 @@ Remover tarefa — exclui uma tarefa da lista pelo ID
 Como rodar:
 
 Clone o repositório:
-bashgit clone https://github.com/thiagomiorelli-spec/gerenciador-tarefas.git
+git clone https://github.com/thiagomiorelli-spec/gerenciador_tarefas_py.git
 
 Acesse a pasta do projeto:
 bashcd gerenciador-tarefas
